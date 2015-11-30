@@ -1,1 +1,2 @@
 Inclui um novo arquivo no clone 2.
+Teste GitHub
